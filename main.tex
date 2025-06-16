@@ -1,0 +1,78 @@
+\documentclass[a4paper,11pt]{article}
+
+% Engine-specific setup (for XeLaTeX or LuaLaTeX)
+\usepackage{fontspec}
+\setmainfont{MinionPro}
+
+% Geometry and layout
+\usepackage[]{geometry}
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage[absolute]{textpos}
+
+% Encoding and language
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{datetime}
+\usepackage{amsmath, amsfonts, mathtools}
+\usepackage{lscape}
+\usepackage{wrapfig}
+\usepackage{tikz}
+\usepackage{epigraph}
+\usepackage{tabto}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{enumitem}
+\usepackage[titletoc,page]{appendix}
+\usepackage{epstopdf}
+\usepackage[acronym]{glossaries}
+\usepackage{tcolorbox}
+\usepackage{subfig} % Consider using subcaption for newer projects
+\usepackage{csquotes}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{rotating}
+\usepackage{siunitx}
+\usepackage{grffile}
+\usepackage{tabularx}
+
+
+% Bibliography
+\usepackage[backend=biber, style=apa, sorting=anyt]{biblatex}
+\addbibresource{bib.bib}
+
+\setmathrm{Minion Pro}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rfoot{S Dubey - Page \thepage/\pageref{LastPage}}
+
+\setlength{\voffset}{-0.75in}
+\setlength{\headsep}{40pt}
+
+\makeglossaries
+\newcommand{\mytilde}{\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}
+
+\title{From Barriers to Breakthrough: How Middle Management Shapes Sustainable Innovation in Disruptive Industries}
+\author{Shruti Dubey}
+\date{June, 2025}
+
+
+\begin{document}
+	
+	\maketitle
+	\include{intro.tex}
+	\include{literatureReview.tex}
+	\include{Methodology.tex}
+	\include{DataAnalysis.tex}
+	\include{Conclusion.tex}
+	
+	
+	\printacronyms
+	\printglossaries
+	\printbibliography
+\end{document}

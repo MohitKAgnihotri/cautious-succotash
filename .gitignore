@@ -1,0 +1,12 @@
+﻿*.aux
+*.acn
+*.bbl
+*.bcf
+*.blg
+*.glo
+*.ist
+*.log
+*.out
+*.xml
+*.gz
+main-blx.bib
