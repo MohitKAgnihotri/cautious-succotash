@@ -41,6 +41,7 @@
 \usepackage{siunitx}
 \usepackage{grffile}
 \usepackage{tabularx}
+\usepackage{pdfpages}
 
 \onehalfspacing
 
@@ -58,14 +59,27 @@
 
 \begin{document}
 	
-	\maketitle
+	\hypersetup{
+		colorlinks=false,
+		linkbordercolor=white,
+		linkcolor=white,
+		filecolor=white,      
+		urlcolor=white,
+		citecolor=white,
+		linktoc=page
+	}
+	
+
+	\includepdf[pages=-]{Images/MainPage.pdf}
+
 	\newpage
 	\tableofcontents
 	\newpage
 	\listoftables
-	\newpage
 	\listoffigures
 	\newpage
+	
+	
 	
 	
 	\include{intro.tex}
@@ -78,4 +92,9 @@
 	\printacronyms
 	\printglossaries
 	\printbibliography
+	\appendix
+	\includepdf[pages=-]{Images/original_thesis.pdf}
+	\includepdf[pages=-]{Images/SDG_Statement.pdf}
+	\includepdf[pages=-]{Images/GenAI.pdf}
+	
 \end{document}
