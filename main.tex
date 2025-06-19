@@ -1,11 +1,12 @@
-\documentclass[12pt]{article}
+\documentclass[12pt,a4paper]{article}
 
 % Engine-specific setup (for XeLaTeX or LuaLaTeX)
 \usepackage{fontspec}
 \setmainfont{MinionPro}
+\setmathrm{Minion Pro}
 
 % Geometry and layout
-\usepackage[a4paper, margin=2.5cm]{geometry}
+\usepackage[]{geometry}
 \usepackage{setspace} 
 \usepackage{fancyhdr}
 \usepackage{lastpage}
@@ -48,17 +49,7 @@
 \usepackage[backend=biber, style=apa, sorting=anyt]{biblatex}
 \addbibresource{bib.bib}
 
-\setmathrm{Minion Pro}
 
-\pagestyle{fancy}
-\fancyhf{}
-\rfoot{S Dubey - Page \thepage/\pageref{LastPage}}
-
-\setlength{\voffset}{-0.75in}
-\setlength{\headsep}{40pt}
-
-\makeglossaries
-\newcommand{\mytilde}{\raise.17ex\hbox{$\scriptstyle\mathtt{\sim}$}}
 
 \title{From Barriers to Breakthrough: How Middle Management Shapes Sustainable Innovation in Disruptive Industries}
 \author{Shruti Dubey}
