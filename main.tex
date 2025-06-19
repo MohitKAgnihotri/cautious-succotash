@@ -1,11 +1,12 @@
-\documentclass[a4paper,11pt]{article}
+\documentclass[12pt]{article}
 
 % Engine-specific setup (for XeLaTeX or LuaLaTeX)
 \usepackage{fontspec}
 \setmainfont{MinionPro}
 
 % Geometry and layout
-\usepackage[]{geometry}
+\usepackage[a4paper, margin=2.5cm]{geometry}
+\usepackage{setspace} 
 \usepackage{fancyhdr}
 \usepackage{lastpage}
 \usepackage[absolute]{textpos}
@@ -40,6 +41,8 @@
 \usepackage{grffile}
 \usepackage{tabularx}
 
+\onehalfspacing % Set 1.5 line spacing
+
 
 % Bibliography
 \usepackage[backend=biber, style=apa, sorting=anyt]{biblatex}
@@ -65,6 +68,15 @@
 \begin{document}
 	
 	\maketitle
+	\newpage
+	\tableofcontents
+	\newpage
+	\listoftables
+	\newpage
+	\listoffigures
+	\newpage
+	
+	
 	\include{intro.tex}
 	\include{literatureReview.tex}
 	\include{Methodology.tex}
