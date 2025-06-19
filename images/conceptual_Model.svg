@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="conceptual_Model.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.71891835"
+     inkscape:cx="591.86137"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="ConcaveTriangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Concave triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.7)"
+         d="M -2,-4 9,0 -2,4 c 2,-2.33 2,-5.66 0,-8 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+         id="path7" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#bec8b7;stroke-width:0.28434"
+       id="rect4"
+       width="209.40891"
+       height="173.34201"
+       x="-6.0978431e-07"
+       y="23.553904" />
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ffffff;stroke-width:0.297947"
+       x="29.833941"
+       y="33.901127"
+       id="text4"
+       transform="scale(0.93652251,1.06778)"><tspan
+         sodipodi:role="line"
+         id="tspan4"
+         style="font-size:7.05556px;fill:#24221c;stroke-width:0.297947"
+         x="29.833941"
+         y="33.901127">Emerging Disruptive and Sustainable Industries</tspan></text>
+    <g
+       id="g18"
+       transform="translate(0,2.2081784)">
+      <rect
+         style="fill:#8dd35f;stroke-width:0.264583"
+         id="rect5"
+         width="170.39777"
+         height="24.289961"
+         x="22.081785"
+         y="47.475838" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#8dd35f;stroke-width:0.264583"
+         x="57.780666"
+         y="60.724907"
+         id="text5"><tspan
+           sodipodi:role="line"
+           id="tspan5"
+           style="fill:#1a1a1a;stroke-width:0.264583"
+           x="57.780666"
+           y="60.724907">Cultured Meat vs Green Energy</tspan></text>
+    </g>
+    <g
+       id="g17"
+       transform="translate(-0.73605946,6.6245353)">
+      <g
+         id="g16"
+         style="display:inline">
+        <rect
+           style="display:inline;fill:#8dd35f;stroke-width:0.264583"
+           id="rect5-1"
+           width="170.39777"
+           height="24.289961"
+           x="21.063181"
+           y="157.1606"
+           inkscape:label="rect5-1" />
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-size:5.64444px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke-width:0.264583"
+         x="31.650557"
+         y="170.02974"
+         id="text6"><tspan
+           sodipodi:role="line"
+           id="tspan6"
+           style="stroke-width:0.264583"
+           x="31.650557"
+           y="170.02974">Cross Industry Learning and Transferable Practises</tspan></text>
+    </g>
+    <g
+       id="g19"
+       transform="translate(0.73605953,4.7843866)">
+      <rect
+         style="fill:#f4d7d7;stroke-width:0.460074"
+         id="rect6-8"
+         width="65.877327"
+         height="47.843864"
+         x="117.90476"
+         y="91.179779"
+         inkscape:transform-center-x="91.42159"
+         inkscape:transform-center-y="-2.0102459" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke-width:0.264583"
+         x="119.24164"
+         y="107.83273"
+         id="text8"><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="119.24164"
+           y="107.83273"
+           id="tspan9">Stakeholder Engagement</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="119.24164"
+           y="114.88828"
+           id="tspan10">and Market Acceptance</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="119.24164"
+           y="121.94383"
+           id="tspan11">RQ2</tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.64444px;stroke-width:0.264583"
+           x="119.24164"
+           y="128.99939"
+           id="tspan12" /></text>
+    </g>
+    <g
+       id="g20"
+       transform="translate(-1.8401487,4.7843866)">
+      <rect
+         style="fill:#f4d7d7;stroke-width:0.45268"
+         id="rect6"
+         width="64.773232"
+         height="47.107803"
+         x="32.018589"
+         y="90.903343" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.99722px;font-family:Bahnschrift;-inkscape-font-specification:Bahnschrift;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#1a1a1a;stroke-width:0.264583"
+         x="32.152725"
+         y="108.01839"
+         id="text8-2"><tspan
+           sodipodi:role="line"
+           id="tspan8-7"
+           style="font-size:5.99722px;stroke-width:0.264583"
+           x="32.152725"
+           y="108.01839">Technical &amp; Operational </tspan><tspan
+           sodipodi:role="line"
+           style="font-size:5.99722px;stroke-width:0.264583"
+           x="32.152725"
+           y="115.51492"
+           id="tspan9-6">Barriers (RQ1)</tspan></text>
+    </g>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle)"
+       d="M 97.821596,73.973977 80.909923,95.68773"
+       id="path12"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect5"
+       inkscape:connection-end="#rect6"
+       inkscape:label="path12" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:url(#ConcaveTriangle);marker-end:url(#ConcaveTriangle)"
+       d="m 116.54755,73.973977 16.77899,21.990189"
+       id="path13"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect5"
+       inkscape:connection-end="#rect6-8" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 80.415207,142.79553 15.906814,20.9896"
+       id="path15"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect6"
+       inkscape:connection-end="#rect5-1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#ConcaveTriangle)"
+       d="m 131.92193,143.80803 -16.41594,19.9771"
+       id="path16"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0"
+       inkscape:connection-start="#rect6-8"
+       inkscape:connection-end="#rect5-1" />
+  </g>
+</svg>
