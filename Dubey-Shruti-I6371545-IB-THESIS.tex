@@ -1,0 +1,120 @@
+\documentclass[12pt,a4paper]{article}
+
+% Engine-specific setup (for XeLaTeX or LuaLaTeX)
+\usepackage{fontspec}
+\setmainfont{MinionPro}
+\setmathrm{Minion Pro}
+
+% Geometry and layout
+\usepackage[]{geometry}
+\usepackage{setspace} 
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\usepackage[absolute]{textpos}
+
+% Encoding and language
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{url}
+\usepackage{hyperref}
+\usepackage{datetime}
+\usepackage{amsmath, amsfonts, mathtools}
+\usepackage{lscape}
+\usepackage{wrapfig}
+\usepackage{tikz}
+\usepackage{epigraph}
+\usepackage{tabto}
+\usepackage{array}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{multirow}
+\usepackage{enumitem}
+\usepackage[titletoc,page]{appendix}
+\usepackage{epstopdf}
+\usepackage[acronym]{glossaries}
+\usepackage{tcolorbox}
+\usepackage{subfig} % Consider using subcaption for newer projects
+\usepackage{csquotes}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{rotating}
+\usepackage{siunitx}
+\usepackage{grffile}
+\usepackage{tabularx}
+\usepackage{pdfpages}
+
+\onehalfspacing
+
+
+% Bibliography
+\usepackage[backend=biber, style=apa, sorting=anyt]{biblatex}
+\addbibresource{bib.bib}
+
+
+
+\title{From Barriers to Breakthrough: How Middle Management Shapes Sustainable Innovation in Disruptive Industries}
+\author{Shruti Dubey}
+\date{June, 2025}
+
+
+
+
+\begin{document}
+	
+	\hypersetup{
+		colorlinks=false,
+		linkbordercolor=white,
+		linkcolor=white,
+		filecolor=white,      
+		urlcolor=white,
+		citecolor=white,
+	}
+	
+
+	\includepdf[pages=-]{Images/MainPage.pdf}
+	
+\begin{center}
+	\section*{Acknowledgements}
+\end{center}
+	I would like to express my deepest gratitude to my supervisor, Dr Özge Tüncel, for her invaluable guidance and support throughout every stage of this research. I am also sincerely thankful to the managers from the clean energy and cultured meat sectors who generously shared their time and insights during interviews, making this study possible. My heartfelt appreciation to my friends and family especially my mom for their understanding and encouragement during this journey. Most of all, I am overwhelmingly grateful to my partner Mohit, whose love, patience, support, and belief in me have been a continual source of strength. Thank you for your presence, it has made every challenge lighter and every success more meaningful.
+	\newpage
+\begin{center}
+	\section*{Abstract}
+\end{center}
+		This thesis investigates how middle management drives sustainable innovation in disruptive industries, focusing on clean energy and cultured meat. Through qualitative interviews with managers from both sectors, the study compares strategies for overcoming technical, regulatory, and market barriers. Findings reveal that clean energy managers prioritize process optimization, regulatory compliance, and stakeholder partnerships, while cultured meat managers emphasize regulatory adaption, consumer education, and innovation. Across both sectors, effective communication, internal alignments, and external collaboration are key to progressing sustainability. The research extends sustainability leadership theory beyond executive roles, offering practical frameworks for endowing middle managers and accelerating sustainability transitions in emerging industries.
+
+	\newpage
+	\tableofcontents
+	\newpage
+	\listoftables
+	\listoffigures
+	\newpage
+	
+	\begin{abstract}
+		This thesis investigates how middle management drives sustainable innovation in disruptive industries, focusing on clean energy and cultured meat. Through qualitative interviews with managers from both sectors, the study compares strategies for overcoming technical, regulatory, and market barriers. Findings reveal that clean energy managers prioritize process optimization, regulatory compliance, and stakeholder partnerships, while cultured meat managers emphasize regulatory adaption, consumer education, and innovation. Across both sectors, effective communication, internal alignments, and external collaboration are key to progressing sustainability. The research extends sustainability leadership theory beyond executive roles, offering practical frameworks for endowing middle managers and accelerating sustainability transitions in emerging industries.
+	\end{abstract}
+	
+
+
+
+
+	
+	\section{Acknowledgement}
+
+	
+	\include{intro.tex}
+	\include{literatureReview.tex}
+	\include{Methodology.tex}
+	\include{DataAnalysis.tex}
+	\include{Conclusion.tex}
+	
+	
+	\printacronyms
+	\printglossaries
+	\printbibliography
+	\appendix
+	\includepdf[pages=-]{Images/original_thesis.pdf}
+	\includepdf[pages=-]{Images/SDG_Statement.pdf}
+	\includepdf[pages=-]{Images/GenAI.pdf}
+	
+\end{document}
