@@ -112,7 +112,11 @@
 	\printacronyms
 	\printglossaries
 	\printbibliography
-	\appendix
+	\newpage
+	\begin{appendices}
+	\include{Transcript1.tex}
+	\include{Transcript2.tex}
+	\end{appendices}
 	\includepdf[pages=-]{Images/original_thesis.pdf}
 	\includepdf[pages=-]{Images/SDG_Statement.pdf}
 	\includepdf[pages=-]{Images/GenAI.pdf}
